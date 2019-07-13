@@ -11,7 +11,7 @@ The encoder reads the input sequence, word by word and emits a context (a functi
 which would ideally capture the essence (semantic summary) of the input sequence.
 Based on this context, the decoder generates the output sequence, one word at a time while looking at the context and the previous word during each timestep.
 
-<img src = "ai-platform/tasks/natural-language-processing/chatbot/images/seq2seq.png">
+<img src = "/images/seq2seq.png">
 
 # Data Preparation
 For the seq2seq chatbot, twitter chat log dataset is used obtained from https://github.com/Marsan-Ma/chat_corpus/ and for general pre-processing of data, data.py is used which is also taken from Marsen-Ma. It contains simple functions to filter out sentences
