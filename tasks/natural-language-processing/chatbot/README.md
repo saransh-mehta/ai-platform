@@ -2,8 +2,7 @@
 
 This is the code assessment submitted by Saransh Mehta as a part of the process for Produvia. 
 
-I have build an encoder-decoder sequence2sequence model for modelling a chatbot using the twitter chat dataset. The chat dataset is taken from 
-https://github.com/marsan-ma/chat_corpus
+I have build an encoder-decoder sequence2sequence model for modelling a chatbot using the twitter chat dataset.
 
 
 Encoder-decoder, seq2seq based generative chatbot using Native Tensorflow
