@@ -1,4 +1,11 @@
 # Generative_chatbot_seq2seq_tf
+
+This is the code assessment submitted by Saransh Mehta as a part of the process for Produvia. 
+
+I have build an encoder-decoder sequence2sequence model for modelling a chatbot using the twitter chat dataset. The chat dataset is taken from 
+https://github.com/marsan-ma/chat_corpus
+
+
 Encoder-decoder, seq2seq based generative chatbot using Native Tensorflow
 The Sequence to Sequence model (seq2seq) consists of two RNNs - an encoder and a decoder.
 The encoder reads the input sequence, word by word and emits a context (a function of final hidden state of encoder),
